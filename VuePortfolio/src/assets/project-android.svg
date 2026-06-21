@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#00897b"/>
+  <rect x="130" y="30" width="140" height="180" rx="16" fill="#4db6ac"/>
+  <text x="200" y="130" text-anchor="middle" fill="#fff" font-size="20" font-family="Arial">Android App</text>
+</svg>

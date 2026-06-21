@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#4527a0"/>
+  <ellipse cx="200" cy="120" rx="120" ry="70" fill="#7e57c2"/>
+  <text x="200" y="128" text-anchor="middle" fill="#fff" font-size="24" font-family="Arial">Database</text>
+</svg>

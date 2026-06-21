@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#1565c0"/>
+  <rect x="40" y="50" width="320" height="140" rx="12" fill="#42a5f5"/>
+  <text x="200" y="130" text-anchor="middle" fill="#fff" font-size="28" font-family="Arial">Vue Portfolio</text>
+</svg>
